@@ -90,4 +90,4 @@ Now, Run the migrate commenad
 - python manage.py migrate
 
 ### Displaying Nearby Shops
-  use a html file to randor the details.
+  Use a html file to rander the details.
