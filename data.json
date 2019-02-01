@@ -1,0 +1,2621 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-01-31T05:15:02Z",
+    "timestamp_areas_base": "2019-01-31T05:01:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3267507132,
+      "lat": 22.7538897,
+      "lon": 75.9010713,
+      "tags": {
+        "addr:city": "Indore",
+        "addr:postcode": "452010",
+        "addr:street": "Shekhar Residency, Near Bombay Hospital",
+        "name": "Reliance Fresh",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3267657263,
+      "lat": 22.7560845,
+      "lon": 75.905928,
+      "tags": {
+        "name": "Amul Icecream Parlour",
+        "shop": "dairy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3268795511,
+      "lat": 22.7542333,
+      "lon": 75.9055464,
+      "tags": {
+        "name": "Classic Stationery",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3268795512,
+      "lat": 22.7543186,
+      "lon": 75.9055652,
+      "tags": {
+        "name": "HariOm Kirana Stores",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3268795513,
+      "lat": 22.7543681,
+      "lon": 75.9055665,
+      "tags": {
+        "name": "Gopal Krishna Dairy and Sweets",
+        "shop": "dairy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3285663672,
+      "lat": 22.7732539,
+      "lon": 75.8714728,
+      "tags": {
+        "name": "ira supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3339600322,
+      "lat": 22.7277282,
+      "lon": 75.8945049,
+      "tags": {
+        "name": "Perfect Stationary",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3345984518,
+      "lat": 22.7230094,
+      "lon": 75.8949971,
+      "tags": {
+        "name": "Arpit Chemist",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3345996084,
+      "lat": 22.7231563,
+      "lon": 75.8969861,
+      "tags": {
+        "name": "Mahak CD/DVD Store",
+        "shop": "video"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3360136355,
+      "lat": 22.71664,
+      "lon": 75.8646823,
+      "tags": {
+        "addr:city": "indore",
+        "addr:housenumber": "124",
+        "addr:postcode": "452007",
+        "addr:street": "Siyaganj Street no 2",
+        "name": "Karim Bhai Yusuf Ai Bagasrawala",
+        "opening_hours": "10.45 am to 8 pm",
+        "phone": "+917312543003",
+        "phone_1": "+919039522168",
+        "shop": "kitchenware;hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387824271,
+      "lat": 22.7166956,
+      "lon": 75.8644262,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "F A Engineerwala",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387824278,
+      "lat": 22.7166792,
+      "lon": 75.8644519,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Rajbi",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387826558,
+      "lat": 22.7167266,
+      "lon": 75.8643461,
+      "tags": {
+        "addr:street": "Siyaganj",
+        "name": "Tarmal  Traders",
+        "shop": "paint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387826894,
+      "lat": 22.7165889,
+      "lon": 75.8646318,
+      "tags": {
+        "addr:city": "indore",
+        "addr:housenumber": "74",
+        "addr:street": "Siyaganj",
+        "name": "Yogeshwar Maschine Tools",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387826924,
+      "lat": 22.7165233,
+      "lon": 75.8648088,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Jaliwala",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387828045,
+      "lat": 22.7167203,
+      "lon": 75.8643629,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Saif enterprise",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387828682,
+      "lat": 22.7167121,
+      "lon": 75.8643827,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Bombay Machine Tools",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387829354,
+      "lat": 22.7167011,
+      "lon": 75.8644035,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Badshah Maschine",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387829916,
+      "lat": 22.7166537,
+      "lon": 75.8644984,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Quality Bag",
+        "shop": "bag"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387831609,
+      "lat": 22.7166674,
+      "lon": 75.8644756,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Classic Bag",
+        "shop": "bag"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387835490,
+      "lat": 22.7166382,
+      "lon": 75.8645162,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Action Home",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387835573,
+      "lat": 22.7166063,
+      "lon": 75.8645972,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Topiwala",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387840688,
+      "lat": 22.71663,
+      "lon": 75.8645439,
+      "tags": {
+        "addr:city": "indore",
+        "addr:housenumber": "76",
+        "addr:street": "Siyaganj",
+        "name": "Nav Bharat Stores",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387840704,
+      "lat": 22.7166172,
+      "lon": 75.8645696,
+      "tags": {
+        "addr:city": "indore",
+        "addr:housenumber": "75",
+        "addr:street": "Siyaganj",
+        "name": "Hardware Collection",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387845019,
+      "lat": 22.7165707,
+      "lon": 75.8646635,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Mahidpurwala",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387847733,
+      "lat": 22.7164621,
+      "lon": 75.8650448,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "H Sulemaji Bagasrawala",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387848391,
+      "lat": 22.7165525,
+      "lon": 75.8647188,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Rubi Iron",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387848570,
+      "lat": 22.7165443,
+      "lon": 75.8647435,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Hakimuddin Ebrahim",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387848781,
+      "lat": 22.7165324,
+      "lon": 75.8647821,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Tata Agrico",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387849597,
+      "lat": 22.7165133,
+      "lon": 75.8648335,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Jaliwala Traders",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387868334,
+      "lat": 22.7167467,
+      "lon": 75.8642898,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Unique Bag",
+        "shop": "bag"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3387868335,
+      "lat": 22.716506,
+      "lon": 75.8648562,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Khambati",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392507107,
+      "lat": 22.7164819,
+      "lon": 75.8649751,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Malubhai wala",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392513499,
+      "lat": 22.7164274,
+      "lon": 75.8651146,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "Siyaganj",
+        "name": "Metro Sales",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3585123490,
+      "lat": 22.7561743,
+      "lon": 75.8884767,
+      "tags": {
+        "name": "P.T. Point - Kirana Shop",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3585123778,
+      "lat": 22.7561142,
+      "lon": 75.8884598,
+      "tags": {
+        "name": "Prince Dry Cleaners",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3585125954,
+      "lat": 22.7561681,
+      "lon": 75.8883887,
+      "tags": {
+        "name": "Patanjali Ayurvedic Store - Shri Shubh Lakshmi Traders",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3585133877,
+      "lat": 22.7566133,
+      "lon": 75.8885734,
+      "tags": {
+        "name": "Panch-Amrit Mithai Shop",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3585135646,
+      "lat": 22.7567114,
+      "lon": 75.8882034,
+      "tags": {
+        "name": "Chemist Shop",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3710272479,
+      "lat": 22.7168186,
+      "lon": 75.8647573,
+      "tags": {
+        "name": "Saifee Electrical",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3711015328,
+      "lat": 22.723317,
+      "lon": 75.865665,
+      "tags": {
+        "addr:housenumber": "MSB II B 105",
+        "addr:street": "New Siyaganj, Patthar Godam",
+        "name": "Organic Sansar",
+        "note": "Organic food",
+        "opening_hours": "10:00-19:00",
+        "phone": "+91 731 297 0620",
+        "shop": "supermarket",
+        "website": "http://www.organicsansar.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3891662605,
+      "lat": 22.7021315,
+      "lon": 75.8706444,
+      "tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "13",
+        "addr:postcode": "452001",
+        "addr:street": "Sapna Sangeeta Road",
+        "name": "Lotus Electronics",
+        "phone": "+91 731-4265555",
+        "shop": "supermarket",
+        "website": "http://www.lotuselectronics.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4373206370,
+      "lat": 22.7816486,
+      "lon": 75.8901317,
+      "tags": {
+        "shop": "art"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4373207672,
+      "lat": 22.7811988,
+      "lon": 75.8884028,
+      "tags": {
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469012633,
+      "lat": 22.7342491,
+      "lon": 75.8888672,
+      "tags": {
+        "name": "Madaan Stationers",
+        "shop": "office_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469199521,
+      "lat": 22.7580355,
+      "lon": 75.892742,
+      "tags": {
+        "name": "Dairy Queen",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469199522,
+      "lat": 22.7566457,
+      "lon": 75.8872037,
+      "tags": {
+        "name": "Tinku Ice Cream",
+        "shop": "Ice_Cream"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469199524,
+      "lat": 22.7590533,
+      "lon": 75.8858209,
+      "tags": {
+        "name": "Dheeraj World",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469262213,
+      "lat": 22.7341175,
+      "lon": 75.8891722,
+      "tags": {
+        "name": "Purity Foods",
+        "operator": "Jai Singh",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469262214,
+      "lat": 22.7341746,
+      "lon": 75.8890852,
+      "tags": {
+        "name": "Jain Infocom",
+        "operator": "Manjre uncle",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469262215,
+      "lat": 22.734062,
+      "lon": 75.8892491,
+      "tags": {
+        "name": "Mayank Parchuni Store",
+        "operator": "Sindhi brothers",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469262216,
+      "lat": 22.7340543,
+      "lon": 75.8892758,
+      "tags": {
+        "name": "Modern Laundry",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469262217,
+      "lat": 22.7326918,
+      "lon": 75.8879909,
+      "tags": {
+        "name": "Bhatewra Kirana Store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469262218,
+      "lat": 22.7320155,
+      "lon": 75.8887745,
+      "tags": {
+        "name": "Monopal Beauty Salon",
+        "operator": "Pavan",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469262226,
+      "lat": 22.7346868,
+      "lon": 75.8881177,
+      "tags": {
+        "name": "Rukmani Bajaj",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4565028089,
+      "lat": 22.7164897,
+      "lon": 75.8699772,
+      "tags": {
+        "name": "Indore JS Resv.S",
+        "name:en": "Indore JS Resv.S",
+        "name:ko": "기차 예매 장소",
+        "shop": "ticket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4691937468,
+      "lat": 22.7001967,
+      "lon": 75.8370405,
+      "tags": {
+        "addr:city": "indore",
+        "addr:street": "ranjithanuman road",
+        "name": "apurti supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4691942770,
+      "lat": 22.6978806,
+      "lon": 75.8332693,
+      "tags": {
+        "addr:city": "indore",
+        "name": "srinath",
+        "operator": "travels",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4692079322,
+      "lat": 22.6972234,
+      "lon": 75.8324762,
+      "tags": {
+        "addr:city": "indore",
+        "name": "pan shop",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4695086686,
+      "lat": 22.7112454,
+      "lon": 75.8498291,
+      "tags": {
+        "addr:city": "Indore",
+        "addr:postcode": "452002",
+        "name": "Lekhan Pathan Book Store",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4695149572,
+      "lat": 22.7111276,
+      "lon": 75.849862,
+      "tags": {
+        "addr:city": "Indore",
+        "addr:postcode": "452002",
+        "name": "Shree Satya Sai Hardware Stores",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703151223,
+      "lat": 22.7051408,
+      "lon": 75.8438832,
+      "tags": {
+        "addr:city": "indore",
+        "name": "sardam maa mobile centre",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703286762,
+      "lat": 22.7052657,
+      "lon": 75.8440053,
+      "tags": {
+        "addr:city": "indore",
+        "name": "LIC agent appontd",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703289421,
+      "lat": 22.7045195,
+      "lon": 75.8434972,
+      "tags": {
+        "addr:city": "indore",
+        "name": "first flight",
+        "shop": "courier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703304344,
+      "lat": 22.7041509,
+      "lon": 75.8431968,
+      "tags": {
+        "addr:city": "indore",
+        "name": "LOTUS",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703338212,
+      "lat": 22.7040261,
+      "lon": 75.8430544,
+      "tags": {
+        "addr:city": "indore",
+        "name": "jaipur novelties new",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4720007415,
+      "lat": 22.6950165,
+      "lon": 75.8292535,
+      "tags": {
+        "name": "tata docomo store",
+        "shop": "hifi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4866877973,
+      "lat": 22.6258382,
+      "lon": 75.7926995,
+      "tags": {
+        "name": "Pi Shop",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4866877974,
+      "lat": 22.6257854,
+      "lon": 75.7927392,
+      "tags": {
+        "name": "KK Traders",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5049920323,
+      "lat": 22.7410547,
+      "lon": 75.8889484,
+      "tags": {
+        "addr:street": "MR 9",
+        "name": "Pooja bekry",
+        "name:en": "Pooja bekry",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5182093121,
+      "lat": 22.7075055,
+      "lon": 75.8783381,
+      "tags": {
+        "name": "Wine shop",
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5197419321,
+      "lat": 22.611095,
+      "lon": 75.797615,
+      "tags": {
+        "addr:street": "Mhow Bypass",
+        "name": "Apna sweets",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5269609922,
+      "lat": 22.7143675,
+      "lon": 75.8682798,
+      "tags": {
+        "addr:street": "Sardar Patel Flyover",
+        "name": "English wine shop",
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5376097224,
+      "lat": 22.7507332,
+      "lon": 75.9248691,
+      "tags": {
+        "addr:postcode": "452001",
+        "addr:street": "Star Square",
+        "name": "Muslim kabristan(graveyard) khajrana",
+        "shop": "funeral_directors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5411635221,
+      "lat": 22.7423257,
+      "lon": 75.8917209,
+      "tags": {
+        "name": "Lotus Electronics Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5413764921,
+      "lat": 22.7422655,
+      "lon": 75.8932711,
+      "tags": {
+        "name": "Bata",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5419707095,
+      "lat": 22.7180702,
+      "lon": 75.8486492,
+      "tags": {
+        "addr:street": "Sitala Mata Bazar",
+        "name": "Cloth Market",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Indore Cloth Market Cssociation",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5728199321,
+      "lat": 22.7462031,
+      "lon": 75.8945728,
+      "tags": {
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5734075921,
+      "lat": 22.7174195,
+      "lon": 75.8775396,
+      "tags": {
+        "addr:street": "Gita Bhavan intersection",
+        "name": "Wine shop",
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5847739485,
+      "lat": 22.7665444,
+      "lon": 75.9006944,
+      "tags": {
+        "addr:housenumber": "Plot No. 8-13",
+        "addr:postcode": "452001",
+        "addr:street": "Service Road",
+        "name": "Mahindra Motors, Sagar Automobiles Pvt. Ltd,",
+        "name:en": "Mahindra Motors, Sagar Automobiles Pvt Ltd, In front of Scheme No.114, Bapu Gandhi Nagar, AB Road, Indore (Madhya Pradesh)",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5853723986,
+      "lat": 22.7149538,
+      "lon": 75.8408146,
+      "tags": {
+        "addr:street": "Bhagat Singh Square",
+        "name": "Patel Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5853726085,
+      "lat": 22.7150787,
+      "lon": 75.8404351,
+      "tags": {
+        "addr:street": "Bhagat Singh Square",
+        "name": "Panjab travels",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5950991282,
+      "lat": 22.8185335,
+      "lon": 75.9272513,
+      "tags": {
+        "name": "Ayushi Kirana Store",
+        "phone": "9425398574",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951091657,
+      "lat": 22.8179043,
+      "lon": 75.9267926,
+      "tags": {
+        "name": "JIO Digital",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951096598,
+      "lat": 22.8178586,
+      "lon": 75.9269067,
+      "tags": {
+        "name": "Deep Electronic Repairing Center",
+        "phone": "9685813415",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951098941,
+      "lat": 22.8183592,
+      "lon": 75.9274726,
+      "tags": {
+        "contact:phone": "9753221680",
+        "name": "CRI PUMPS",
+        "service": "All Kinds of Pumps & their Services",
+        "shop": "hardware",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951101990,
+      "lat": 22.8181911,
+      "lon": 75.9278561,
+      "tags": {
+        "name": "Jadhav Photo Studio",
+        "shop": "photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951101991,
+      "lat": 22.8184247,
+      "lon": 75.9273934,
+      "tags": {
+        "name": "S R Footwear",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951115502,
+      "lat": 22.8179389,
+      "lon": 75.9263769,
+      "tags": {
+        "name": "Aarti Collection And Saree Center",
+        "phone": "9329421046,9981023914",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951133266,
+      "lat": 22.8184458,
+      "lon": 75.9268292,
+      "tags": {
+        "name": "Student's Collection Stationery",
+        "opening_hours": "9:00-21:00",
+        "phone": "9713670390",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951135433,
+      "lat": 22.819557,
+      "lon": 75.9277059,
+      "tags": {
+        "addr:city": "indore",
+        "addr:place": "Mangliya",
+        "name": "Shri Sanwariya Jewellers",
+        "operator": "Prof. Kailashchandra",
+        "phone": "99265 95982",
+        "shop": "jewelry",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951146710,
+      "lat": 22.8182665,
+      "lon": 75.92749,
+      "tags": {
+        "name": "perfect cyber and photocopy",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951146711,
+      "lat": 22.8179674,
+      "lon": 75.9290564,
+      "tags": {
+        "name": "govind kirana stores",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951157030,
+      "lat": 22.8180811,
+      "lon": 75.9264654,
+      "tags": {
+        "name": "Nakoda Collection",
+        "phone": "7400727030",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951175794,
+      "lat": 22.8179031,
+      "lon": 75.9269187,
+      "tags": {
+        "name": "Burhani Shoe Center",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951209034,
+      "lat": 22.8190564,
+      "lon": 75.9277783,
+      "tags": {
+        "name": "Shree Asha Tailors",
+        "phone": "9977175871",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951424849,
+      "lat": 22.8191256,
+      "lon": 75.9274551,
+      "tags": {
+        "name": "Sanchi Milk Point",
+        "operator": "Subham Sivhare",
+        "phone": "9754338990",
+        "shop": "dairy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951433697,
+      "lat": 22.8192023,
+      "lon": 75.927785,
+      "tags": {
+        "name": "Shri ram Jewellors",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951501957,
+      "lat": 22.8198105,
+      "lon": 75.9279487,
+      "tags": {
+        "name": "Sai Ram Cyber Cafe",
+        "phone": "9893437993,8818877754",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567385,
+      "lat": 22.8195138,
+      "lon": 75.9279259,
+      "tags": {
+        "name": "Shree Sai Motors",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567390,
+      "lat": 22.8178997,
+      "lon": 75.926677,
+      "tags": {
+        "name": "Nice Computers",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567391,
+      "lat": 22.817856,
+      "lon": 75.9266641,
+      "tags": {
+        "name": "Siddhi Vnayak Ayurweda Shop",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567395,
+      "lat": 22.8179006,
+      "lon": 75.9264225,
+      "tags": {
+        "name": "Mumbai Fashion",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567398,
+      "lat": 22.8187115,
+      "lon": 75.9272835,
+      "tags": {
+        "name": "Nilesh Mobile",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567399,
+      "lat": 22.8188648,
+      "lon": 75.9274846,
+      "tags": {
+        "name": "Agarwal Kirana Stores",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567400,
+      "lat": 22.8176039,
+      "lon": 75.9265029,
+      "tags": {
+        "name": "Manvey Mutton Shop",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567401,
+      "lat": 22.8193456,
+      "lon": 75.9278709,
+      "tags": {
+        "name": "Solanki Tailors",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567402,
+      "lat": 22.8174704,
+      "lon": 75.9262401,
+      "tags": {
+        "name": "Shree Datt Electronic Hardware",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567403,
+      "lat": 22.8171293,
+      "lon": 75.9260362,
+      "tags": {
+        "name": "Mahankaal Autoparts",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951567405,
+      "lat": 22.818489,
+      "lon": 75.9268677,
+      "tags": {
+        "name": "Nirmal Shoe Store",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951575737,
+      "lat": 22.819685,
+      "lon": 75.9282913,
+      "tags": {
+        "name": "Jai Mahankaal Sweets",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951584767,
+      "lat": 22.8101908,
+      "lon": 75.9383263,
+      "tags": {
+        "addr:city": "Mangliya",
+        "name": "Narmada Electrics",
+        "phone": "9009850398",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951708843,
+      "lat": 22.8187097,
+      "lon": 75.9270176,
+      "tags": {
+        "location": "959, A.B. Road , Manglia",
+        "name": "Photo Copy Shop",
+        "opening_hours": "09:00-21:00",
+        "phone": "9165765030",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952874794,
+      "lat": 22.8170464,
+      "lon": 75.9259598,
+      "tags": {
+        "name": "shreeji tailors",
+        "phone": "+919424552198",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952874795,
+      "lat": 22.8169698,
+      "lon": 75.9258968,
+      "tags": {
+        "name": "vishal jewellers",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952874798,
+      "lat": 22.8166434,
+      "lon": 75.9256527,
+      "tags": {
+        "name": "rajesh k namkeen",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952874801,
+      "lat": 22.818672,
+      "lon": 75.9273431,
+      "tags": {
+        "name": "shivhare kirana",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952874802,
+      "lat": 22.818756,
+      "lon": 75.9273566,
+      "tags": {
+        "name": "agrawal stores",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952874805,
+      "lat": 22.8186967,
+      "lon": 75.9273773,
+      "tags": {
+        "name": "agrawal stores",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952874810,
+      "lat": 22.8190329,
+      "lon": 75.9275866,
+      "tags": {
+        "name": "new bunty garments or shoes store",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952874812,
+      "lat": 22.8193049,
+      "lon": 75.9278896,
+      "tags": {
+        "name": "swami sales machinery and hardwares",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915758,
+      "lat": 22.8183265,
+      "lon": 75.9272915,
+      "tags": {
+        "name": "Agrawal Jewellers",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915759,
+      "lat": 22.8183648,
+      "lon": 75.9273505,
+      "tags": {
+        "name": "Patel Bakery- Chinese Food, Soda and Juice",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915764,
+      "lat": 22.8171466,
+      "lon": 75.9260429,
+      "tags": {
+        "name": "Classic Tailors",
+        "phone": "+918889197788",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915766,
+      "lat": 22.816866,
+      "lon": 75.9258096,
+      "tags": {
+        "name": "Shweta General Store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915771,
+      "lat": 22.818672,
+      "lon": 75.9273431,
+      "tags": {
+        "name": "shivhare kirana",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915772,
+      "lat": 22.818756,
+      "lon": 75.9273566,
+      "tags": {
+        "name": "agrawal stores",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915775,
+      "lat": 22.8186967,
+      "lon": 75.9273773,
+      "tags": {
+        "name": "agrawal stores",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915780,
+      "lat": 22.8190329,
+      "lon": 75.9275866,
+      "tags": {
+        "name": "new bunty garments or shoes store",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952915782,
+      "lat": 22.8193049,
+      "lon": 75.9278896,
+      "tags": {
+        "name": "swami sales machinery and hardwares",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6045542119,
+      "lat": 22.6669844,
+      "lon": 75.8832396,
+      "tags": {
+        "addr:city": "indore",
+        "addr:postcode": "452001",
+        "addr:street": "Khandwa Road",
+        "brand": "Maruti Suzuki",
+        "name": "Ocean Motors",
+        "second_hand": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:tyres": "yes",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202835037,
+      "lat": 22.7309764,
+      "lon": 75.8882868,
+      "tags": {
+        "addr:street": "Phadnis colony",
+        "name": "Chandrekha pharmacy",
+        "name:hi": "चंद्रारेखा",
+        "opening_hours": "Mo-Sa 9:00-16:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202835042,
+      "lat": 22.7340291,
+      "lon": 75.889864,
+      "tags": {
+        "addr:street": "LIG Square Main road",
+        "name": "Maya Medicose",
+        "name:hi": "माया मेडिकोज",
+        "opening_hours": "Mo-Sa 9:00-22:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202835043,
+      "lat": 22.7341083,
+      "lon": 75.8896762,
+      "tags": {
+        "addr:street": "LIG Square Main road",
+        "contact:mobile": "+919926328318",
+        "contact:phone": "07314072435",
+        "name": "Pulse Pharmacy",
+        "name:hi": "पल्स फार्मा",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202835047,
+      "lat": 22.7268103,
+      "lon": 75.8816779,
+      "tags": {
+        "addr:city": "Indore",
+        "addr:street": "20/1, janjeerwala square",
+        "contact:mobile": "8989699388",
+        "name": "Rohit chemist",
+        "name:hi": "रोहित केमिस्ट",
+        "opening_hours": "Mo-Sa 11:00-21:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6207061975,
+      "lat": 22.7187697,
+      "lon": 75.8874446,
+      "tags": {
+        "addr:street": "Geeta Bhawan Road",
+        "name": "Saroj Chemist",
+        "name:hi": "सरोज केमिस्ट",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6207080361,
+      "lat": 22.7181796,
+      "lon": 75.8875774,
+      "tags": {
+        "addr:street": "Near Geeta Bhawan Hospital",
+        "name": "Gupta Medicose",
+        "name:hi": "गुप्ता मेडिकोज",
+        "opening_hours": "Mo-Su 09:00-10:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216185608,
+      "lat": 22.7154939,
+      "lon": 75.8464551,
+      "tags": {
+        "addr:housenumber": "200",
+        "addr:street": "Jawahar marg",
+        "name": "New Popular Medicose",
+        "name:hi": "न्यू पॉपुलर मेडिकोज",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216185610,
+      "lat": 22.7152762,
+      "lon": 75.8443093,
+      "tags": {
+        "addr:street": "Jawahar marg",
+        "name": "Khandelwal chemist",
+        "name:hi": "खण्डेलवाल केमिस्ट",
+        "opening_hours": "Mo-Sa 09:00-20:30",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216185611,
+      "lat": 22.715296,
+      "lon": 75.8449638,
+      "tags": {
+        "addr:street": "Jawahar marg",
+        "name": "New Goodluck chemist",
+        "name:hi": "न्यू गुडलक केमिस्ट",
+        "opening_hours": "Mo-Sa 21:30-22:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216185613,
+      "lat": 22.7152168,
+      "lon": 75.8437139,
+      "tags": {
+        "addr:housenumber": "218",
+        "addr:street": "Jawahar Marg Rajmollah",
+        "contact:phone": "+919425057711",
+        "name": "Mayank Medicose",
+        "name:hi": "मयंक मेडिकोज",
+        "opening_hours": "Mo-Sa 09:00-20:30",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216235725,
+      "lat": 22.7059978,
+      "lon": 75.8428287,
+      "tags": {
+        "addr:street": "MOG Lines",
+        "contact:phone": "+919479952095",
+        "name": "Osho Medical Store",
+        "name:hi": "ओशो मेडिकल स्टोर",
+        "opening_hours": "Mo-Sa 9:30-21:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216262759,
+      "lat": 22.7051268,
+      "lon": 75.8428395,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Mhow Naka Nagar Nigam Market",
+        "name": "New Surendra Chemist",
+        "name:hi": "न्यू सुरेन्द्र केमिस्ट",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216348939,
+      "lat": 22.7091748,
+      "lon": 75.8460796,
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:street": "Mahunaka Annapurna Road",
+        "name": "Ajanta Medicose",
+        "name:hi": "अजंता मेडिकोज",
+        "opening_hours": "Mo-Sa 10:30-20:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216374958,
+      "lat": 22.7142569,
+      "lon": 75.8301902,
+      "tags": {
+        "addr:housenumber": "213",
+        "addr:street": "Panchmurti nagar",
+        "contact:phone": "+919826093237",
+        "name": "Baba Chemist",
+        "name:hi": "बाबा केमिस्ट",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216941743,
+      "lat": 22.7157117,
+      "lon": 75.8494833,
+      "tags": {
+        "addr:housenumber": "334",
+        "addr:street": "Jawahar Marg",
+        "name": "Atul Medical Store",
+        "name:hi": "अतुल मेडिकल स्टोर",
+        "opening_hours": "Mo-Sa 10:00-21:30",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216941744,
+      "lat": 22.7156919,
+      "lon": 75.8494592,
+      "tags": {
+        "addr:housenumber": "333",
+        "addr:street": "Jawahar marg",
+        "name": "Chirag medicose",
+        "name:hi": "चिराग मेडिकोज",
+        "opening_hours": "Mo-Sa 09:30-23:30",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216941746,
+      "lat": 22.7156003,
+      "lon": 75.8493814,
+      "tags": {
+        "addr:housenumber": "332",
+        "addr:street": "Jawahar marg",
+        "name": "Harish Chemist",
+        "opening_hours": "Mo-Sa 10:00-24:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216941748,
+      "lat": 22.7191952,
+      "lon": 75.8507252,
+      "tags": {
+        "addr:housenumber": "191",
+        "addr:street": "MG Road",
+        "name": "Govind jhawar",
+        "opening_hours": "Mo-Sa 09:30-13:00,18:00-21:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6219206972,
+      "lat": 22.6833706,
+      "lon": 75.8358979,
+      "tags": {
+        "addr:housenumber": "2/5",
+        "addr:street": "Narmada Palace, Chanakyapuri Square, Annapurna Road",
+        "contact:phone": "+919977244510",
+        "name": "Satnam Medical And Cosmetic Centre",
+        "name:hi": "सतनाम मेडिकल एंड कॉस्मेटिक सेंटर",
+        "opening_hours": "Mo-Sa 09:30-21:30",
+        "personnel:count": "6",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237616616,
+      "lat": 22.7450297,
+      "lon": 75.8923819,
+      "tags": {
+        "brand": "Alll",
+        "name": "Decore",
+        "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 10:00-22:00",
+        "shop": "houseware",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237624015,
+      "lat": 22.7458089,
+      "lon": 75.8935815,
+      "tags": {
+        "name": "Jade Blue",
+        "opening_hours": "sunrise-sunset",
+        "organic": "no",
+        "second_hand": "no",
+        "shop": "clothes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237628396,
+      "lat": 22.7456024,
+      "lon": 75.8932959,
+      "tags": {
+        "name": "Tanishq",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237628398,
+      "lat": 22.7455418,
+      "lon": 75.8934689,
+      "tags": {
+        "name": "Metro",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237628399,
+      "lat": 22.7457174,
+      "lon": 75.8935145,
+      "tags": {
+        "name": "Jade Blue",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237628402,
+      "lat": 22.7464768,
+      "lon": 75.8929485,
+      "tags": {
+        "brand": "Tata",
+        "name": "Krishu Motors",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237630520,
+      "lat": 22.7450495,
+      "lon": 75.8933133,
+      "tags": {
+        "name": "Sapphire Twins",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237634476,
+      "lat": 22.744305,
+      "lon": 75.8921814,
+      "tags": {
+        "name": "mehta cloth",
+        "opening_hours": "08:30-12:30,15:30-20:00",
+        "organic": "no",
+        "second_hand": "only",
+        "shop": "clothes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237634510,
+      "lat": 22.7445845,
+      "lon": 75.8921398,
+      "tags": {
+        "name": "Delux interio (furnishing studio)",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 08:00-15:00; PH off",
+        "shop": "interior_decoration",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237638252,
+      "lat": 22.7456172,
+      "lon": 75.8927916,
+      "tags": {
+        "name": "Raymond",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237641249,
+      "lat": 22.7460309,
+      "lon": 75.8934756,
+      "tags": {
+        "name": "JADE BLUE",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237641296,
+      "lat": 22.7445672,
+      "lon": 75.8931671,
+      "tags": {
+        "addr:city": "Indore",
+        "name": "bombay dyeing",
+        "opening_hours": "11:59-08:00",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237643501,
+      "lat": 22.7442459,
+      "lon": 75.8926222,
+      "tags": {
+        "name": "Pakiza Shopping Center",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237646496,
+      "lat": 22.7456148,
+      "lon": 75.8931845,
+      "tags": {
+        "name": "Fab India",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6237648450,
+      "lat": 22.7462497,
+      "lon": 75.8930842,
+      "tags": {
+        "brand": "Decor",
+        "name": "Decor",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191501555,
+      "nodes": [
+        2020718306,
+        2020718319,
+        2020718318,
+        2020718301,
+        2020718306
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Mangal City Mall",
+        "shop": "mall",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191817530,
+      "nodes": [
+        2023843671,
+        2023843711,
+        2023843710,
+        2023843675,
+        2023843673,
+        2023843660,
+        2023843665,
+        2023843669,
+        2023843671
+      ],
+      "tags": {
+        "addr:city": "Indore",
+        "addr:street": "RNT marg",
+        "building": "commercial",
+        "name": "Central Mall",
+        "opening_hours": "08:00-22:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191953027,
+      "nodes": [
+        2025110952,
+        3360059302,
+        2025110970,
+        2025111007,
+        2025111010,
+        2025111020,
+        2025111145,
+        2025111196,
+        2025111172,
+        2025111158,
+        2025111149,
+        2025111151,
+        2025111160,
+        2025111164,
+        2025111166,
+        2025111152,
+        2025111133,
+        2025110943,
+        2025110936,
+        2025110934,
+        2025110930,
+        2025110928,
+        2025110935,
+        2025110941,
+        2025110952
+      ],
+      "tags": {
+        "addr:city": "Indore",
+        "addr:street": "Siyaganj Main Road",
+        "is_in": "Indore",
+        "landuse": "commercial",
+        "name": "Tarmal Traders",
+        "shop": "Rope"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320370606,
+      "nodes": [
+        3268795478,
+        3268795479,
+        3268795480,
+        3268795481,
+        3268795478
+      ],
+      "tags": {
+        "name": "Abhikaran Honda",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320370608,
+      "nodes": [
+        3268795489,
+        3268795490,
+        3268795491,
+        3268795492,
+        3307063670,
+        3307063669,
+        3268795489
+      ],
+      "tags": {
+        "name": "Rajpal Toyota",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322645072,
+      "nodes": [
+        3294182231,
+        3294182232,
+        3294182233,
+        3294182234,
+        3294182235,
+        3294182236,
+        3294182231
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Walmart Best Price Wholesale",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 324281343,
+      "nodes": [
+        3310131520,
+        3310131521,
+        3310131522,
+        3310131523,
+        3310131524,
+        3310131525,
+        3310131526,
+        3310131527,
+        3310131520
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "C21 Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 361841822,
+      "nodes": [
+        3662635904,
+        3662635902,
+        3662635901,
+        3662635903,
+        3662635904
+      ],
+      "tags": {
+        "addr:city": "Indore",
+        "addr:housename": "Sapna Sangeeta Mall",
+        "addr:housenumber": "13",
+        "addr:postcode": "452001",
+        "addr:street": "Sapna Sangeeta Road",
+        "building": "yes",
+        "name": "Sapna Sangeeta Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 450003201,
+      "nodes": [
+        4469199514,
+        4469199515,
+        6109750103,
+        6109750102,
+        4469199516,
+        4469199517,
+        4469199518,
+        4469199519,
+        4469199520,
+        6109750104,
+        4469199514
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Malhar Mega Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 630452623,
+      "nodes": [
+        5953136472,
+        5953136471,
+        5953136470,
+        5953136469,
+        5953136472
+      ],
+      "tags": {
+        "name": "A3",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 630763732,
+      "nodes": [
+        5955467003,
+        5955467004,
+        5955467005,
+        5955467006,
+        5955467003
+      ],
+      "tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "93",
+        "addr:postcode": "452001",
+        "addr:street": "Palasiahana, Opp. Chappan Dukaan, MG Road,",
+        "building": "yes",
+        "email": "onecentreindore@gmail.com",
+        "name": "One Centre",
+        "opening_hours": "10:30-22:00",
+        "phone": "+91-9826016606",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2025110952,
+      "lat": 22.7161867,
+      "lon": 75.8639237
+    },
+    {
+      "type": "node",
+      "id": 2025110970,
+      "lat": 22.7164763,
+      "lon": 75.8638013
+    },
+    {
+      "type": "node",
+      "id": 2025111007,
+      "lat": 22.7170187,
+      "lon": 75.8637774
+    },
+    {
+      "type": "node",
+      "id": 2025111010,
+      "lat": 22.7170604,
+      "lon": 75.8636736
+    },
+    {
+      "type": "node",
+      "id": 2025111020,
+      "lat": 22.7172641,
+      "lon": 75.8634794
+    },
+    {
+      "type": "node",
+      "id": 3360059302,
+      "lat": 22.7163033,
+      "lon": 75.8638744
+    },
+    {
+      "type": "node",
+      "id": 3662635901,
+      "lat": 22.6991588,
+      "lon": 75.86754
+    },
+    {
+      "type": "node",
+      "id": 3662635902,
+      "lat": 22.6988047,
+      "lon": 75.8669765
+    },
+    {
+      "type": "node",
+      "id": 3662635903,
+      "lat": 22.6993712,
+      "lon": 75.8673832
+    },
+    {
+      "type": "node",
+      "id": 3662635904,
+      "lat": 22.6990171,
+      "lon": 75.8668197
+    },
+    {
+      "type": "node",
+      "id": 2025110928,
+      "lat": 22.7149994,
+      "lon": 75.8667526
+    },
+    {
+      "type": "node",
+      "id": 2025110930,
+      "lat": 22.7150283,
+      "lon": 75.8678326
+    },
+    {
+      "type": "node",
+      "id": 2025110934,
+      "lat": 22.7151452,
+      "lon": 75.8678287
+    },
+    {
+      "type": "node",
+      "id": 2025110935,
+      "lat": 22.715166,
+      "lon": 75.866572
+    },
+    {
+      "type": "node",
+      "id": 2025110936,
+      "lat": 22.7153326,
+      "lon": 75.8677271
+    },
+    {
+      "type": "node",
+      "id": 2025110941,
+      "lat": 22.7157109,
+      "lon": 75.8663538
+    },
+    {
+      "type": "node",
+      "id": 2025110943,
+      "lat": 22.7157908,
+      "lon": 75.8672305
+    },
+    {
+      "type": "node",
+      "id": 2023843660,
+      "lat": 22.7176727,
+      "lon": 75.871605
+    },
+    {
+      "type": "node",
+      "id": 2023843665,
+      "lat": 22.7177292,
+      "lon": 75.8713869
+    },
+    {
+      "type": "node",
+      "id": 2023843669,
+      "lat": 22.7178052,
+      "lon": 75.8714162
+    },
+    {
+      "type": "node",
+      "id": 2023843671,
+      "lat": 22.7178543,
+      "lon": 75.8711501
+    },
+    {
+      "type": "node",
+      "id": 2023843673,
+      "lat": 22.7179255,
+      "lon": 75.8716609
+    },
+    {
+      "type": "node",
+      "id": 2023843675,
+      "lat": 22.7179623,
+      "lon": 75.8719056
+    },
+    {
+      "type": "node",
+      "id": 2025111145,
+      "lat": 22.7191415,
+      "lon": 75.862777
+    },
+    {
+      "type": "node",
+      "id": 2025111196,
+      "lat": 22.7198273,
+      "lon": 75.862843
+    },
+    {
+      "type": "node",
+      "id": 2025111133,
+      "lat": 22.7188832,
+      "lon": 75.8674449
+    },
+    {
+      "type": "node",
+      "id": 2025111149,
+      "lat": 22.7191751,
+      "lon": 75.8662135
+    },
+    {
+      "type": "node",
+      "id": 2025111151,
+      "lat": 22.7192233,
+      "lon": 75.8665607
+    },
+    {
+      "type": "node",
+      "id": 2025111152,
+      "lat": 22.7192372,
+      "lon": 75.8676782
+    },
+    {
+      "type": "node",
+      "id": 2025111158,
+      "lat": 22.719376,
+      "lon": 75.8661807
+    },
+    {
+      "type": "node",
+      "id": 2025111160,
+      "lat": 22.7194212,
+      "lon": 75.8666059
+    },
+    {
+      "type": "node",
+      "id": 2025111164,
+      "lat": 22.7194836,
+      "lon": 75.8668504
+    },
+    {
+      "type": "node",
+      "id": 2025111166,
+      "lat": 22.7194749,
+      "lon": 75.8676811
+    },
+    {
+      "type": "node",
+      "id": 2025111172,
+      "lat": 22.7195882,
+      "lon": 75.8657648
+    },
+    {
+      "type": "node",
+      "id": 2023843710,
+      "lat": 22.7184702,
+      "lon": 75.8715651
+    },
+    {
+      "type": "node",
+      "id": 2023843711,
+      "lat": 22.7184751,
+      "lon": 75.8712113
+    },
+    {
+      "type": "node",
+      "id": 5955467005,
+      "lat": 22.7238852,
+      "lon": 75.8848584
+    },
+    {
+      "type": "node",
+      "id": 5955467006,
+      "lat": 22.7244799,
+      "lon": 75.8846405
+    },
+    {
+      "type": "node",
+      "id": 5955467003,
+      "lat": 22.7251007,
+      "lon": 75.88443
+    },
+    {
+      "type": "node",
+      "id": 5955467004,
+      "lat": 22.7251636,
+      "lon": 75.8848347
+    },
+    {
+      "type": "node",
+      "id": 3310131521,
+      "lat": 22.7441744,
+      "lon": 75.8948266
+    },
+    {
+      "type": "node",
+      "id": 3310131522,
+      "lat": 22.7437538,
+      "lon": 75.894673
+    },
+    {
+      "type": "node",
+      "id": 3310131523,
+      "lat": 22.7438025,
+      "lon": 75.8945193
+    },
+    {
+      "type": "node",
+      "id": 3310131524,
+      "lat": 22.7437405,
+      "lon": 75.8944857
+    },
+    {
+      "type": "node",
+      "id": 3310131525,
+      "lat": 22.7438069,
+      "lon": 75.8941064
+    },
+    {
+      "type": "node",
+      "id": 3310131526,
+      "lat": 22.7437383,
+      "lon": 75.8940896
+    },
+    {
+      "type": "node",
+      "id": 3310131527,
+      "lat": 22.7438379,
+      "lon": 75.8936359
+    },
+    {
+      "type": "node",
+      "id": 3310131520,
+      "lat": 22.7444423,
+      "lon": 75.8938087
+    },
+    {
+      "type": "node",
+      "id": 4469199514,
+      "lat": 22.7449607,
+      "lon": 75.8940124
+    },
+    {
+      "type": "node",
+      "id": 4469199515,
+      "lat": 22.7457836,
+      "lon": 75.894251
+    },
+    {
+      "type": "node",
+      "id": 4469199516,
+      "lat": 22.74572,
+      "lon": 75.8946979
+    },
+    {
+      "type": "node",
+      "id": 4469199517,
+      "lat": 22.7451103,
+      "lon": 75.8945211
+    },
+    {
+      "type": "node",
+      "id": 4469199518,
+      "lat": 22.7449629,
+      "lon": 75.8951187
+    },
+    {
+      "type": "node",
+      "id": 4469199519,
+      "lat": 22.7443111,
+      "lon": 75.8949297
+    },
+    {
+      "type": "node",
+      "id": 4469199520,
+      "lat": 22.7445428,
+      "lon": 75.8939902
+    },
+    {
+      "type": "node",
+      "id": 6109750102,
+      "lat": 22.745781,
+      "lon": 75.8944502
+    },
+    {
+      "type": "node",
+      "id": 6109750103,
+      "lat": 22.7457376,
+      "lon": 75.8944376
+    },
+    {
+      "type": "node",
+      "id": 6109750104,
+      "lat": 22.7449379,
+      "lon": 75.8941048
+    },
+    {
+      "type": "node",
+      "id": 2020718301,
+      "lat": 22.7517112,
+      "lon": 75.8965535
+    },
+    {
+      "type": "node",
+      "id": 2020718306,
+      "lat": 22.7517902,
+      "lon": 75.8962071
+    },
+    {
+      "type": "node",
+      "id": 2020718318,
+      "lat": 22.753052,
+      "lon": 75.8969402
+    },
+    {
+      "type": "node",
+      "id": 2020718319,
+      "lat": 22.7531409,
+      "lon": 75.8965991
+    },
+    {
+      "type": "node",
+      "id": 5953136469,
+      "lat": 22.7538207,
+      "lon": 75.8992141
+    },
+    {
+      "type": "node",
+      "id": 5953136470,
+      "lat": 22.7537144,
+      "lon": 75.8995172
+    },
+    {
+      "type": "node",
+      "id": 5953136471,
+      "lat": 22.7542239,
+      "lon": 75.8996648
+    },
+    {
+      "type": "node",
+      "id": 5953136472,
+      "lat": 22.7542956,
+      "lon": 75.899359
+    },
+    {
+      "type": "node",
+      "id": 3268795478,
+      "lat": 22.7697803,
+      "lon": 75.9005064
+    },
+    {
+      "type": "node",
+      "id": 3268795479,
+      "lat": 22.7700936,
+      "lon": 75.900594
+    },
+    {
+      "type": "node",
+      "id": 3268795480,
+      "lat": 22.7700594,
+      "lon": 75.9009373
+    },
+    {
+      "type": "node",
+      "id": 3268795481,
+      "lat": 22.7696963,
+      "lon": 75.9008294
+    },
+    {
+      "type": "node",
+      "id": 3268795489,
+      "lat": 22.7713125,
+      "lon": 75.9006884
+    },
+    {
+      "type": "node",
+      "id": 3268795490,
+      "lat": 22.7711817,
+      "lon": 75.9012636
+    },
+    {
+      "type": "node",
+      "id": 3268795491,
+      "lat": 22.7706745,
+      "lon": 75.9010811
+    },
+    {
+      "type": "node",
+      "id": 3268795492,
+      "lat": 22.7708878,
+      "lon": 75.90055
+    },
+    {
+      "type": "node",
+      "id": 3307063669,
+      "lat": 22.771304,
+      "lon": 75.9006238
+    },
+    {
+      "type": "node",
+      "id": 3307063670,
+      "lat": 22.7708991,
+      "lon": 75.9004923
+    },
+    {
+      "type": "node",
+      "id": 3294182231,
+      "lat": 22.75036,
+      "lon": 75.9341067
+    },
+    {
+      "type": "node",
+      "id": 3294182234,
+      "lat": 22.7499178,
+      "lon": 75.932884
+    },
+    {
+      "type": "node",
+      "id": 3294182235,
+      "lat": 22.749962,
+      "lon": 75.9342146
+    },
+    {
+      "type": "node",
+      "id": 3294182236,
+      "lat": 22.7503545,
+      "lon": 75.9342805
+    },
+    {
+      "type": "node",
+      "id": 3294182232,
+      "lat": 22.7509017,
+      "lon": 75.9341307
+    },
+    {
+      "type": "node",
+      "id": 3294182233,
+      "lat": 22.7508906,
+      "lon": 75.932884
+    }
+  ]
+}
